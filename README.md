@@ -7,3 +7,9 @@ DATABASES:
   - Contains Customer details, Order details, and Person details 
 2.SalesDB:
   - Includes Customers, Employees, Orders, OrderArchive, and Product details
+Clone the repo:
+git clone https://github.com/AyushShankar02/SQL-PRACTICE-.git
+
+Navigate into folder:
+cd SQL-PRACTICE-
+Open any .sql file in your SQL client and run queries
